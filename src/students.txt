@@ -1,0 +1,24 @@
+STUDENT
+S001
+jharna CSE ai-ml
+cse aiml
+1
+OFFERED
+java|pro
+canva|design
+WANTED
+python|pro
+video editing|craetive
+END
+STUDENT
+S003
+Ananya
+Cse aiml
+1
+OFFERED
+Python|Programming
+Photoshop|Design
+WANTED
+java|programming
+Video editing|creative
+END
